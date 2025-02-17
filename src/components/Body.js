@@ -27,6 +27,7 @@ const Body = () => {
           <option value={4.3}>Rating &gt; 4.3</option>
           <option value={4.4}>Rating &gt; 4.4</option>
         </select>
+        
         <button
           className="filter-btn"
           onClick={() => {
